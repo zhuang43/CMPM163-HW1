@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{7F8E3BA2-8370-608E-4CED-426C4A14A21F}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Shaders/Texture.shader">
+    <Files>
+      <File FileName="Assets/Shaders/Phong.shader" Line="1" Column="1" />
+      <File FileName="../../CMPM163-master/Intro/Assets/Shaders/Phong.shader" Line="7" Column="40" />
+      <File FileName="Assets/Shaders/Texture.shader" Line="1" Column="1" />
+      <File FileName="Assets/spin.cs" Line="7" Column="4" />
+      <File FileName="Assets/MovePoint.cs" Line="8" Column="35" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
