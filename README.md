@@ -1,4 +1,6 @@
 # CMPM163-HW1
+# Zeyun Huang
+
 CMPM 163 S2019
 Game Graphics & Real-time Rendering
 Homework 1 (100 pts) – Due Sunday, 4/28 at 11:59pm
