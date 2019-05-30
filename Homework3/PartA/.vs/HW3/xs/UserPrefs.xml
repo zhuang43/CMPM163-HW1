@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{54D378FC-8661-A00A-D6EB-1A5089C140F2}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Demo8_NoiseShader/NoiseExplosion.shader">
+    <Files>
+      <File FileName="Assets/AudioSyncScale.cs" Line="5" Column="1" />
+      <File FileName="Assets/AudioSpectrum.cs" Line="5" Column="31" />
+      <File FileName="Assets/AudioSyncer.cs" Line="9" Column="1" />
+      <File FileName="Assets/rotate.cs" Line="8" Column="27" />
+      <File FileName="Assets/Demo8_NoiseShader/NoiseExplosion.shader" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
